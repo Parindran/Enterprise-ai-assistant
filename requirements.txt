@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pandas
+sentence-transformers
+pinecone-client
+PyMuPDF
+huggingface-hub
+together
+gTTS
+transformers
+torch
+python-docx
